@@ -11,3 +11,4 @@ numpy==1.24.3
 transformers==4.35.0
 accelerate==0.24.0
 datasets==2.14.0
+huggingface-hub
